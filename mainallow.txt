@@ -1,0 +1,15 @@
+!
+! Title: WITS Allow List
+! Description: Enables services that are always needed in our ADGuard Protected Infrastructure
+! Verion 1.0
+! Last Modified: 2025-12-26
+!
+
+api.minecraftservices.com
+authserver.mojang.com
+sessionserver.mojang.com
+textures.minecraft.net
+mojang.com
+user.auth.xboxlive.com
+xsts.auth.xboxlive.com
+login.microsoftonline.com
