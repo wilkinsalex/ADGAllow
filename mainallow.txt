@@ -5,6 +5,7 @@
 ! Last Modified: 2025-12-26
 !
 
+! Microsoft Services and Connected Domains
 api.minecraftservices.com
 authserver.mojang.com
 sessionserver.mojang.com
@@ -13,3 +14,33 @@ mojang.com
 user.auth.xboxlive.com
 xsts.auth.xboxlive.com
 login.microsoftonline.com
+! > More broad allow URLs
+g.live.com
+microsoft.com
+
+!Gaming Services
+epicgames.com
+
+! School services
+schoolmessenger.com
+
+! Streaming and Social Media Services allow List
+netflix.com
+s.youtube.com
+b-graph.facebook.com
+lookaside.facebook.com
+rupload.facebook.com
+edge-stun.facebook.com
+scontent-yyz1-1.xx.fbcdn.net
+
+!Homelab Allows
+collector.github.com
+
+!WFW Allows
+analytics.dialpad.com
+office.com
+huntress-rio.s3.amazonaws.com
+rbc.com
+cloudfront.net
+intuit.com
+seal.digicert.com
