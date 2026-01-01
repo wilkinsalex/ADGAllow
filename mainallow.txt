@@ -20,6 +20,7 @@ microsoft.com
 
 !Gaming Services
 epicgames.com
+playstation.com
 
 ! School services
 schoolmessenger.com
